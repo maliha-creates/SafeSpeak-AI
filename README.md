@@ -37,3 +37,5 @@ This project focuses on awareness, prevention, and accessibility, making digital
 ---
 
 👩‍💻 Created by Maliha Mubasshira
+
+live app:  https://safespeak-ai-u6ph87cr5kxpzb7xdjudxo.streamlit.app/
